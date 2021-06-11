@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/caja-de-ritmos/static/css/main.b7aa6da1.chunk.css",
-    "main.js": "/caja-de-ritmos/static/js/main.dedd66ee.chunk.js",
-    "main.js.map": "/caja-de-ritmos/static/js/main.dedd66ee.chunk.js.map",
-    "runtime-main.js": "/caja-de-ritmos/static/js/runtime-main.2ea6e632.js",
-    "runtime-main.js.map": "/caja-de-ritmos/static/js/runtime-main.2ea6e632.js.map",
-    "static/js/2.4ed8c2a5.chunk.js": "/caja-de-ritmos/static/js/2.4ed8c2a5.chunk.js",
-    "static/js/2.4ed8c2a5.chunk.js.map": "/caja-de-ritmos/static/js/2.4ed8c2a5.chunk.js.map",
+    "main.css": "/caja-de-ritmos/static/css/main.264badf3.chunk.css",
+    "main.js": "/caja-de-ritmos/static/js/main.fa072c1b.chunk.js",
+    "main.js.map": "/caja-de-ritmos/static/js/main.fa072c1b.chunk.js.map",
+    "runtime-main.js": "/caja-de-ritmos/static/js/runtime-main.c0773995.js",
+    "runtime-main.js.map": "/caja-de-ritmos/static/js/runtime-main.c0773995.js.map",
+    "static/js/2.c9ff053e.chunk.js": "/caja-de-ritmos/static/js/2.c9ff053e.chunk.js",
+    "static/js/2.c9ff053e.chunk.js.map": "/caja-de-ritmos/static/js/2.c9ff053e.chunk.js.map",
     "index.html": "/caja-de-ritmos/index.html",
-    "static/css/main.b7aa6da1.chunk.css.map": "/caja-de-ritmos/static/css/main.b7aa6da1.chunk.css.map",
-    "static/js/2.4ed8c2a5.chunk.js.LICENSE.txt": "/caja-de-ritmos/static/js/2.4ed8c2a5.chunk.js.LICENSE.txt"
+    "static/css/main.264badf3.chunk.css.map": "/caja-de-ritmos/static/css/main.264badf3.chunk.css.map",
+    "static/js/2.c9ff053e.chunk.js.LICENSE.txt": "/caja-de-ritmos/static/js/2.c9ff053e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.2ea6e632.js",
-    "static/js/2.4ed8c2a5.chunk.js",
-    "static/css/main.b7aa6da1.chunk.css",
-    "static/js/main.dedd66ee.chunk.js"
+    "static/js/runtime-main.c0773995.js",
+    "static/js/2.c9ff053e.chunk.js",
+    "static/css/main.264badf3.chunk.css",
+    "static/js/main.fa072c1b.chunk.js"
   ]
 }
