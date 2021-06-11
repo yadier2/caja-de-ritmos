@@ -16,10 +16,10 @@ Ejecutar el proyecto (npm run start)
 ## 🔍 Vistas 
 
 ### 💻 Desktop
-![desktop1](https://user-images.githubusercontent.com/67239454/118434378-9672df80-b6a2-11eb-9523-600eae4ddfaa.png)
+![desktop1](https://i.ibb.co/L8HjFfM/drum-machine-desktop.png)
 
 ### 📱 Mobile
-![mobile1](https://user-images.githubusercontent.com/67239454/118434425-a5f22880-b6a2-11eb-8818-b278a52f8420.png)
+![mobile1](https://i.ibb.co/LgV2SPT/drum-machine-mobile.png)
 
 ## 🌟 Autor
 
